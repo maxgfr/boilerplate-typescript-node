@@ -1,2 +1,10 @@
 # boilerplate-typescript-node
-Node boilerplate in typescript
+
+A simple node boilerplate made in typescript
+
+## Commands
+
+```sh
+yarn
+
+```

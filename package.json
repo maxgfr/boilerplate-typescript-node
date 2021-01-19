@@ -23,5 +23,8 @@
     "lint": "eslint . --ext .ts,.tsx"
   },
   "author": "maxgfr",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
 }

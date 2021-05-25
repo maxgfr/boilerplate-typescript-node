@@ -17,6 +17,7 @@
   "scripts": {
     "start": "node build/src/main.js",
     "dev": "nodemon",
+    "develop": "ts-node ./src/main.ts",
     "clean": "rimraf build",
     "build": "tsc -p tsconfig.json",
     "build:watch": "tsc -w -p tsconfig.json",

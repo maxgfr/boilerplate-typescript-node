@@ -8,6 +8,7 @@ A simple node boilerplate made in typescript
 git clone https://github.com/maxgfr/boilerplate-typescript-node # For cloning the repository
 cd boilerplate-typescript-node # To navigate to the repository root
 yarn # Install dependencies
+cp .env.example .env
 ```
 
 ## Running the code
